@@ -1,0 +1,5 @@
+[run]
+source = test_sugardough
+
+[report]
+omit = */migrations/*
