@@ -4,7 +4,7 @@ python:
 addons:
   postgresql: "9.1"
 before_script:
-  - psql -c 'create database sugardough_db;' -U postgres
+  - createdb sugardough_db
 install:
   - pip install tox
 env:
