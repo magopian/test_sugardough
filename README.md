@@ -1,9 +1,9 @@
 test_sugardough
 ==========
 
-[![Build Status](https://travis-ci.org/mozilla/test_sugardough.svg?branch=master)](https://travis-ci.org/mozilla/test_sugardough)
+[![Build Status](https://img.shields.io/travis/magopian/test_sugardough/master.svg)](https://travis-ci.org/magopian/test_sugardough)
 
-[![Coverage status](https://coveralls.io/repos/mozilla/test_sugardough/badge.svg?branch=master)](https://coveralls.io/r/mozilla/test_sugardough)
+[![Coverage status](https://img.shields.io/coveralls/magopian/test_sugardough/master.svg)](https://coveralls.io/r/magopian/test_sugardough)
 
 Run the tests
 -------------
